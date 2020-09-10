@@ -1,0 +1,13 @@
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.exe
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.deps.json
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.runtimeconfig.json
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.runtimeconfig.dev.json
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.dll
+C:\Users\skolm\source\repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\WindesRace.pdb
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.csprojAssemblyReference.cache
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.AssemblyInfoInputs.cache
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.AssemblyInfo.cs
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.csproj.CoreCompileInputs.cache
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.dll
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.pdb
+C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.genruntimeconfig.cache

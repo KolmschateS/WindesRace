@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skolm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skolm\\.nuget\\packages"
+    ]
+  }
+}
