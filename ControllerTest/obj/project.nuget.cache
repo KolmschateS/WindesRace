@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/NEQQO47kpMmwsrffB7RrF/xClqGjd7aQ62Yh66Y9UZCCDi2mr4tvC1gC668X4Txx1gfedW1ZCri87ARpCaimA==",
+  "dgSpecHash": "q0UycJTR2sUNQcWEwdXXP50L3HjmlzH6QitbQ+MeaZy3zQ6Z1c1bHbhkhr4EcrawjEn4v0VOdneYA2oifXwGzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\ControllerTest\\ControllerTest.csproj",
+  "projectFilePath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\ControllerTest\\ControllerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skolm\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\skolm\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
