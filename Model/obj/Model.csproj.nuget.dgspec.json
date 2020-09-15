@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj": {}
+    "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj": {
+    "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\skolm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\obj\\",
+        "outputPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skolm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
