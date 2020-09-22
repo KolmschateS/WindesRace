@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Model
 {
-    class Section
+    public class Section
     {
         public SectionTypes SectionType { get; set; }
     }
 
-    enum SectionTypes{
+    public enum SectionTypes{
         Straight,
         LeftCorner,
         RightCorner,

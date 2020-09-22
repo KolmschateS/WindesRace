@@ -4,9 +4,15 @@ using System.Text;
 
 namespace Model
 {
-    class Track
+    public class Track
     {
-        String name { get; set; }
-        LinkedList<Section> Sections { get; set; }
+        public String name { get; set; }
+        public LinkedList<Section> Sections { get; set; }
+
+        public Track(string name, LinkedList<Section> sections)
+        {
+            this.name = name;
+            Sections = sections;
+        }
     }
 }
