@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+using Controller;
 
 namespace WindesRace
 {
@@ -6,7 +8,14 @@ namespace WindesRace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Data.Initialize();
+            Data.NextRace();
+            Console.WriteLine(Data.CurrentRace.Track.name);
+            for (; ; )
+            {
+                Thread.Sleep(100);
+            }
+
         }
     }
 }

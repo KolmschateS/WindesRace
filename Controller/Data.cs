@@ -12,11 +12,12 @@ namespace Controller {
         public static Race CurrentRace {get; set; }
 
 
-        static void Initialize() {
+        public static void Initialize() {
             Competition = new Competition();
             Participants();
+            Tracks();
         }
-        static void Participants()
+        public static void Participants()
         {
             IEquipment car1 = new Car(60, 50, 79, false);
             IEquipment car2 = new Car(30, 78, 85, false);
@@ -30,7 +31,7 @@ namespace Controller {
             Competition.Participants.Add(driver2);
             Competition.Participants.Add(driver3);
         }
-        static void Tracks()
+        public static void Tracks()
         {
             LinkedList<Section> sections = new LinkedList<Section>();
             Section straight = new Section();
@@ -42,9 +43,11 @@ namespace Controller {
             sections.AddLast(straight);
 
             Track amersfoort = new Track("Amersfoort", sections);
+
+            Competition.Tracks.Enqueue(amersfoort);
         }
 
-        static void NextRace()
+        public static void NextRace()
         {
             Track _nextTrack = Competition.NextTrack();
             if (_nextTrack != null)

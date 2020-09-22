@@ -11,3 +11,8 @@ C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\Windes
 C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.dll
 C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.pdb
 C:\Users\skolm\source\repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.genruntimeconfig.cache
+C:\Users\skolm\Source\Repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\Controller.dll
+C:\Users\skolm\Source\Repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\skolm\Source\Repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\Controller.pdb
+C:\Users\skolm\Source\Repos\WindesRace\WindesRace\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\skolm\Source\Repos\WindesRace\WindesRace\obj\Debug\netcoreapp3.1\WindesRace.csproj.CopyComplete
