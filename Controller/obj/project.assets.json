@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Model >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -185,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj",
+      "projectUniqueName": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj",
       "projectName": "Controller",
-      "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj",
+      "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj",
       "packagesPath": "C:\\Users\\skolm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\obj\\",
+      "outputPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skolm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,7 +220,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
