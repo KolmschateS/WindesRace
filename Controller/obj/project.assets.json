@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj",
+      "projectUniqueName": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj",
       "projectName": "Controller",
-      "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj",
+      "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj",
       "packagesPath": "C:\\Users\\skolm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\obj\\",
+      "outputPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skolm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj"
+            "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj"
             }
           }
         }

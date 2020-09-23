@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skolm\\source\\repos\\WindesRace\\WindesRace\\WindesRace.csproj",
+      "projectUniqueName": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\WindesRace\\WindesRace.csproj",
       "projectName": "WindesRace",
-      "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\WindesRace\\WindesRace.csproj",
+      "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\WindesRace\\WindesRace.csproj",
       "packagesPath": "C:\\Users\\skolm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\WindesRace\\obj\\",
+      "outputPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\WindesRace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skolm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,11 +71,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj": {
-              "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj"
+            "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj": {
+              "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj"
             },
-            "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Model\\Model.csproj"
+            "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Model\\Model.csproj"
             }
           }
         }

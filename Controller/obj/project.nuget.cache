@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJLv8Ma+KDMQLKUXE/nSQ9Ih46TD39MMtuGx4pd2iLQZ71643qFVIBC15CvLzcHRiRuf6jB6l1FP1I15sjJ5Vg==",
+  "dgSpecHash": "FMuCytlgNsLHvx4NF9vCFxQyV6s3qXH72uAZ4c9uXsb48+KeBjEhGqu4v9z3NYKBNWO6kUzz/jQyMBYk4hqTxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skolm\\source\\repos\\WindesRace\\Controller\\Controller.csproj",
+  "projectFilePath": "C:\\Users\\skolm\\Source\\Repos\\WindesRace\\Controller\\Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skolm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\skolm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
