@@ -10,7 +10,7 @@ namespace WindesRace
         {
             Data.Initialize();
             Data.NextRace();
-            Console.WriteLine(Data.CurrentRace.Track.name);
+            Visualize.DrawTrack(Data.CurrentRace.Track);
             for (; ; )
             {
                 Thread.Sleep(100);
