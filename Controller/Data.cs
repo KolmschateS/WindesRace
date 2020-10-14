@@ -8,12 +8,11 @@ using Model;
 namespace Controller {
     public static class Data
     {
-        public static Competition Competition { get; set; }
+        public static Competition Competition { get; set; } = new Competition();
         public static Race CurrentRace {get; set; }
 
 
         public static void Initialize() {
-            Competition = new Competition();
             Participants();
             Tracks();
         }
@@ -33,18 +32,27 @@ namespace Controller {
         }
         public static void Tracks()
         {
-            LinkedList<Section> sections = new LinkedList<Section>();
-            Section straight = new Section();
-            straight.SectionType = SectionTypes.Straight;
 
-            sections.AddLast(straight);
-            sections.AddLast(straight);
-            sections.AddLast(straight);
-            sections.AddLast(straight);
+            Track amersfoort = new Track("Amersfoort", new SectionTypes[] {
+                SectionTypes.StartGrid,
+                SectionTypes.StartGrid,
+                SectionTypes.StartGrid,
+                SectionTypes.Finish,
+                SectionTypes.LeftCorner,
+                SectionTypes.Straight,
+                SectionTypes.LeftCorner,
+                SectionTypes.Straight,
+                SectionTypes.Straight,
+                SectionTypes.Straight,
+                SectionTypes.Straight,
+                SectionTypes.LeftCorner,
+                SectionTypes.Straight,
+                SectionTypes.LeftCorner, });
+        }
 
-            Track amersfoort = new Track("Amersfoort", sections);
-
-            Competition.Tracks.Enqueue(amersfoort);
+        public static void AddTrack(Track track)
+        {
+            Competition.Tracks.Enqueue(track);
         }
 
         public static void NextRace()
